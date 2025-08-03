@@ -46,7 +46,7 @@ export default function EmailPrankSender() {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
     >
-      <h2 className="text-3xl font-bold mb-6 text-center text-blue-600">Email Prank Sender 🚀</h2>
+      <h2 className="text-3xl font-bold mb-6 text-center text-blue-600">Email Prank Sender </h2>
 
       <div className="mb-4">
         <label className="block font-semibold">Recipient Emails (comma separated)</label>
